@@ -41,4 +41,3 @@ for p1, p2 in data:
 
 print("part one :", total1)
 print("part two :", total2)
-
