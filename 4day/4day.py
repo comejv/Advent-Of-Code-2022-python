@@ -1,4 +1,4 @@
-input = open("input", 'r')
+input = open("4day/input", 'r')
 
 data = []
 while 1:

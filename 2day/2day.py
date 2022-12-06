@@ -1,4 +1,4 @@
-input = open("input", "r")
+input = open("2day/input", "r")
 data = [(line[0], line[2]) for line in input]
 input.close()
 

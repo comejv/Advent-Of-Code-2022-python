@@ -1,4 +1,4 @@
-input = open("input", "r")
+input = open("1day/input", "r")
 
 data = [-1 if line == "\n" else int(line) for line in input]
 

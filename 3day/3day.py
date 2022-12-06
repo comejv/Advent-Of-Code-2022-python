@@ -2,7 +2,7 @@
 # mSMszWRMQmhqrnZL
 # 8 + 8 : m
 
-input = open("input", 'r')
+input = open("3day/input", 'r')
 
 data1 = [(line[:len(line)//2], line[len(line)//2:-1]) for line in input]
 

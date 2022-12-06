@@ -1,7 +1,7 @@
 from copy import deepcopy
 
 
-input = open("input", 'r')
+input = open("5day/input", 'r')
 
 n_stacks = len(input.readline()) // 4
 
